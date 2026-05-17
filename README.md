@@ -20,31 +20,7 @@ Currently working at **Horus University Egypt**, managing systems, servers, Micr
 
 ---
 
-## Current Focus
 
-- Senior System Engineer at **Horus University Egypt**
-- Microsoft 365, Intune, Azure AD and endpoint security administration
-- Hyper-V infrastructure and 100+ virtual machines
-- Intune MDM/MAM for 1,000+ devices
-- FortiGate firewalls, switching, wireless and campus infrastructure
-- Azure DevOps, CI/CD concepts, automation and cloud security
-- Technical instruction for Cisco, Microsoft Azure and cybersecurity
-
----
-
-## Core Skills
-
-```text
-Cloud & Microsoft 365   Azure AD | Microsoft 365 | Exchange | SharePoint | Teams | Intune
-Endpoint Management     MDM | MAM | Windows Autopilot | Apple DEP | Android Enterprise
-Azure DevOps            AZ-400 | Azure Repos | Azure Pipelines | CI/CD | Release Management
-Systems                 Windows Server | Linux | Active Directory | DNS | DHCP | Group Policy | WSUS
-Virtualization          Hyper-V | VMware | Proxmox
-Network Security        FortiGate | Cisco ASA | VPN | IDS/IPS | NAC
-Networking              VLANs | TCP/IP | OSPF | BGP | STP | Cisco | HP-Aruba
-Automation              PowerShell | Bash | Python | Pipeline Automation
-Monitoring & Backup     LibraNMS | PRTG | Nagios | Zabbix | DPM Backup | Veeam
-```
 
 ---
 
