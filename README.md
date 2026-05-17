@@ -54,17 +54,6 @@ Currently working at **Horus University Egypt**, managing systems, servers, Micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
----
-
-## GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engmuslim33&show_icons=true&theme=github_dark&hide_border=true" alt="engmuslim33 stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmuslim33&layout=compact&theme=github_dark&hide_border=true" alt="engmuslim33 languages" />
-</p>
 
 ---
 
