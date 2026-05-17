@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Muhammad Emam</h1>
 <h3 align="center">Senior System Engineer from Egypt</h3>
-<h4 align="center">Cloud | Network Infrastructure | Microsoft 365 | Azure DevOps</h4>
+<h4 align="center">Cloud | IT Infrastructure | Microsoft 365 | DevOps</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=engmuslim33&label=Profile%20views&color=0e75b6&style=flat" alt="engmuslim33" />
