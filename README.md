@@ -20,10 +20,6 @@ Currently working at **Horus University Egypt**, managing systems, servers, Micr
 
 ---
 
-
-
----
-
 ## Certifications Highlights
 
 <p align="left">
