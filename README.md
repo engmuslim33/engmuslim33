@@ -50,16 +50,18 @@ Monitoring & Backup     LibraNMS | PRTG | Nagios | Zabbix | DPM Backup | Veeam
 
 ## Certifications Highlights
 
-- Microsoft Certified: DevOps Engineer Expert **AZ-400**
-- Microsoft Azure Administrator **AZ-104**
-- Microsoft Certified: Azure Security Engineer Associate **AZ-500**
-- Designing Microsoft Azure Infrastructure Solutions **AZ-305**
-- Microsoft Security, Compliance, and Identity Fundamentals **SC-900**
-- VMware Certified Professional - Data Center Virtualization 2024
-- Cisco Certified CyberOps Associate
-- Cisco Certified Academy Instructor CCAI
-- ITIL v4 Foundation
-- Red Hat System Administration I and II
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--400%20DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--500%20Azure%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-500" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--305%20Azure%20Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-305" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--900%20Security%20Compliance%20Identity-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900" />
+  <img src="https://img.shields.io/badge/VMware-VCP--DCV%202024-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VCP-DCV 2024" />
+  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps" />
+  <img src="https://img.shields.io/badge/Cisco-CCAI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCAI" />
+  <img src="https://img.shields.io/badge/ITIL-v4%20Foundation-6A1B9A?style=for-the-badge" alt="ITIL v4" />
+  <img src="https://img.shields.io/badge/Red%20Hat-RH124%20%7C%20RH134-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+</p>
 
 ---
 
