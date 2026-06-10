@@ -29,6 +29,16 @@ I currently work at **Horus University Egypt**, where I manage servers, Microsof
 
 ---
 
+## Featured Project
+
+### [Enterprise Kubernetes DevOps Platform](projects/enterprise-kubernetes-devops-platform)
+
+Self-hosted DevOps platform built with Kubernetes, GitLab CE, GitLab Runner, Harbor Registry, MetalLB, NGINX Ingress, Prometheus, Grafana, Loki and Linux servers.
+
+**Highlights:** Kubernetes cluster, private registry, CI/CD foundation, LoadBalancer networking, ingress routing, monitoring and troubleshooting documentation.
+
+---
+
 ## Core Skills
 
 | Area | Technologies |
