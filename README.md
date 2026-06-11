@@ -1,5 +1,5 @@
 <h1 align="center">Ahmed Muhammad Emam</h1>
-<h3 align="center">Senior System Engineer | Cloud, Infrastructure, Security & Azure DevOps</h3>
+<h3 align="center">Senior System Engineer | Azure, Microsoft 365, Security, Infrastructure & DevOps</h3>
 
 <p align="center">
   <a href="mailto:engahmedemam94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -9,41 +9,47 @@
 
 ---
 
-## About Me
+## Profile
 
-I am a certified **Senior System Engineer** with 5+ years of experience across enterprise infrastructure, Microsoft Azure, Microsoft 365, endpoint management, virtualization, network security, monitoring and systems administration.
+I am a certified Senior System Engineer with 5+ years of hands-on experience across enterprise infrastructure, Microsoft Azure, Microsoft 365, endpoint management, virtualization, network security, monitoring and IT operations.
 
-I currently work at **Horus University Egypt**, where I manage servers, Microsoft 365 services, Intune, Hyper-V, FortiGate firewalls, backup, monitoring and campus infrastructure. I also deliver technical training in Microsoft Azure, Cisco networking and cybersecurity.
+My work focuses on building reliable environments, securing endpoints and identities, improving operational visibility and documenting real infrastructure projects in a practical, reproducible way.
 
----
-
-## What I Do
-
-- Design, operate and support Microsoft 365, Exchange, SharePoint, Teams and Intune environments
-- Manage Azure AD, conditional access, endpoint security and Microsoft Defender for Endpoint
-- Administer Windows Server, Linux, Active Directory, DNS, DHCP, Group Policy, WSUS and WDS
-- Support virtualization platforms including Hyper-V, VMware and Proxmox
-- Manage FortiGate firewalls, Cisco networking, VPN, switching, routing and wireless infrastructure
-- Build automation and operational workflows with PowerShell, Bash, Python and Azure DevOps concepts
-- Train engineers and students on CCNA, CyberOps, Network Security, AZ-104, AZ-500 and AZ-700 topics
+Currently at **Horus University Egypt**, I manage Microsoft 365 services, Intune, Hyper-V, FortiGate firewalls, backup, monitoring and campus infrastructure. I also deliver technical training in Microsoft Azure, Cisco networking and cybersecurity.
 
 ---
 
-## Core Skills
+## Focus Areas
 
-| Area | Technologies |
+| Area | What I Work On |
 | --- | --- |
-| Cloud & Microsoft 365 | Azure AD, Azure VMs, Azure Networking, Microsoft 365, Exchange, SharePoint, Teams, Intune |
-| Endpoint & Security | MDM, MAM, Windows Autopilot, Apple DEP, Android Enterprise, Defender, Conditional Access |
-| Azure DevOps | Azure Repos, Azure Pipelines, CI/CD, Release Management, Pipeline Automation |
+| Cloud & Identity | Azure, Microsoft Entra ID, Microsoft 365, Exchange, SharePoint, Teams, Conditional Access |
+| Endpoint & Security | Intune, MDM/MAM, Windows Autopilot, Defender for Endpoint, Apple DEP, Android Enterprise |
 | Infrastructure | Windows Server, Linux, Active Directory, DNS, DHCP, Group Policy, WSUS, WDS |
-| Virtualization | Hyper-V, VMware, Proxmox, production VM support |
-| Network Security | FortiGate 300D/600E/1100E, Cisco ASA, VPN, IDS/IPS, NAC |
-| Automation & Monitoring | PowerShell, Bash, Python, LibreNMS, PRTG, Nagios, Zabbix, DPM Backup, Veeam |
+| Virtualization | Hyper-V, VMware, Proxmox, production VM operations and troubleshooting |
+| Network Security | FortiGate, Cisco ASA, VPN, switching, routing, wireless and NAC concepts |
+| Automation & DevOps | PowerShell, Bash, Python, GitHub, Azure DevOps, CI/CD concepts and operational scripting |
+| Monitoring & Backup | LibreNMS, PRTG, Nagios, Zabbix, Prometheus, Grafana, DPM Backup and Veeam |
 
 ---
 
-## Certification Highlights
+## Featured Project
+
+### [Enterprise Kubernetes DevOps Platform](https://github.com/engmuslim33/enterprise-kubernetes-devops-platform)
+
+A self-hosted DevOps platform built as a practical infrastructure lab using Kubernetes, GitLab CE, GitLab Runner, Harbor Registry, MetalLB, NGINX Ingress, Prometheus, Grafana, Loki and Linux servers.
+
+**What it demonstrates:**
+
+- Multi-node Kubernetes infrastructure on virtual machines
+- Private container registry and CI/CD foundation
+- LoadBalancer networking with MetalLB and application exposure through NGINX Ingress
+- Monitoring and logging with Prometheus, Grafana, Loki and Node Exporter
+- Real documentation for architecture, setup, screenshots, troubleshooting and lessons learned
+
+---
+
+## Certifications
 
 <p align="left">
   <img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" />
@@ -59,7 +65,7 @@ I currently work at **Horus University Egypt**, where I manage servers, Microsof
 
 ---
 
-## Tools I Use
+## Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
